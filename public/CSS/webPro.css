@@ -1,0 +1,44 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, rgba(90, 55, 180, 0.8), rgba(240, 120, 220, 0.8));
+    background-size: cover;
+    color: white;
+}
+#contenedorP {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    width: 400px;
+    text-align: center;
+}
+#cons {
+    background: rgba(255, 255, 255, 0.3);
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    color: black;
+}
+textarea {
+    width: 100%;
+    padding: 8px;
+    border-radius: 6px;
+    border: none;
+    margin-top: 5px;
+}
+button {
+    background: #333;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 8px;
+    width: 100%;
+}
+#titulo{
+    text-align: center;
+}

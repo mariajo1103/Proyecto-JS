@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "3913",
+      "usuario": "Mariijo11",
+      "contraseña": "njnj",
+      "rol": "admi"
+    },
+    {
+      "id": "6f25",
+      "usuario": "steven",
+      "contraseña": "1234",
+      "rol": "estudiante"
+    }
+  ],
+  "consults": [
+    {
+      "id": "3915",
+      "fecha": "03/03/2025, 10:56",
+      "consulta": "mi trabajo esta hecho"
+    }
+  ]
+}

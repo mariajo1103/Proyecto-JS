@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to top, #ff7e5f, #2b5876);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    
+}
+
+.contedorEst {
+    background: rgba(255, 255, 255, 0.2); 
+    padding: 30px;
+    border-radius: 10px;
+    width: 350px;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+}
+
+#consulta {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 90%;
+    height: 80px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background: #333;
+}
+
+#listaConsultas {
+    background: white;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    font-size: 14px;
+} 
+
+#divConsulta{
+    margin: 5px 0px;
+    border-top: 0.5px solid;
+    padding: 5px;
+}
